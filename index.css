@@ -1,0 +1,75 @@
+/* Estilos generales */
+body {
+    height: 800px;
+    background-image: url("https://images7.alphacoders.com/130/thumbbig-1303456.webp");
+    background-size: cover;
+    background-size: 1422.5px 789px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #080808;
+    color: #7903ff;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+}
+
+nav ul {background-color: #020202;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #b700ff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #fbff07;
+}
+
+.game {
+    background-color: #0bfd173d;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.game img {
+    width: 20%;
+}
+
+.game h3 {color: #ffbd09;
+    margin-top: 10px;
+}
+.game p {
+    -webkit-text-fill-color: #f07109;
+}
+
+footer {
+    background-color: #050505;
+    color: #9b80aa;
+    padding: 10px;
+    text-align: center;
+}
+
+.espacio {
+    visibility: hidden;
+}
